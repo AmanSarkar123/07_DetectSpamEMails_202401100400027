@@ -6,23 +6,23 @@
 
 🔧 1. Data Preprocessing & Feature Encoding
 ------------------------------------------------------------
-*Loaded and explored structured email metadata
+* Loaded and explored structured email metadata
 
-*Cleaned missing or inconsistent data
+* Cleaned missing or inconsistent data
 
-*Encoded categorical features for model compatibility
+* Encoded categorical features for model compatibility
 
 
 
 🌲 2. Model Training
 ------------------------------------------------------------
-*Algorithm Used: Random Forest Classifier
+* Algorithm Used: Random Forest Classifier
 
-*Split dataset into training and test sets
+* Split dataset into training and test sets
 
-*Tuned hyperparameters for optimal performance
+* Tuned hyperparameters for optimal performance
 
-*Trained the model on encoded features
+* Trained the model on encoded features
 
 
 
