@@ -38,7 +38,9 @@ Trained the model on encoded features
 ![image](https://github.com/user-attachments/assets/71e4b194-35d4-47d0-b4a0-84b83d6ce1f9)
 
 --------------------------------------------------------------------------------------------------------------------------
+
 🚀 3. Usability & Future Scope
+---------------------------------------------------------
 This project offers a scalable foundation for real-world spam detection systems using structured data. With minimal adjustments, it can be integrated into larger email processing pipelines or adapted to different datasets. Future enhancements may include incorporating NLP features from email content, optimizing model performance with ensemble techniques, or deploying the model as a live API for real-time filtering.
 
 
